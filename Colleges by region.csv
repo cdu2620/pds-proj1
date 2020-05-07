@@ -1,0 +1,249 @@
+,INSTNM,School Type,Starting Median Salary,Region
+0,Massachusetts Institute of Technology,Engineering,72200.0,Northeastern
+1,California Institute of Technology,Engineering,75500.0,California
+2,Harvey Mudd College,Engineering,71800.0,California
+3,New York University,Engineering,62400.0,Northeastern
+4,Cooper Union for the Advancement of Science and Art,Engineering,62200.0,Northeastern
+5,Worcester Polytechnic Institute,Engineering,61000.0,Northeastern
+6,Carnegie Mellon University,Engineering,61800.0,Northeastern
+7,Rensselaer Polytechnic Institute,Engineering,61100.0,Northeastern
+8,Georgia Institute of Technology,Engineering,58300.0,Southern
+9,Colorado School of Mines,Engineering,58100.0,Western
+10,Stevens Institute of Technology,Engineering,60600.0,Northeastern
+11,Illinois Institute of Technology,Engineering,56000.0,Midwestern
+12,Wentworth Institute of Technology,Engineering,53000.0,Northeastern
+13,Virginia Polytechnic Institute and State University,Engineering,53500.0,Southern
+14,South Dakota School of Mines and Technology,Engineering,55800.0,Midwestern
+15,New Mexico Institute of Mining and Technology,Engineering,51000.0,Western
+16,Rochester Institute of Technology,Engineering,48900.0,Northeastern
+17,Tennessee Technological University,Engineering,46200.0,Southern
+18,University of Illinois at Urbana-Champaign,Party,52900.0,Midwestern
+19,University of Maryland-College Park,Party,52000.0,Southern
+20,University of California-Santa Barbara,Party,50500.0,California
+21,The University of Texas at Austin,Party,49700.0,Southern
+22,SUNY at Albany,Party,44500.0,Northeastern
+23,University of Florida,Party,47100.0,Southern
+24,Louisiana State University and Agricultural & Mechanical College,Party,46900.0,Southern
+25,University of Georgia,Party,44100.0,Southern
+26,Pennsylvania State University-Main Campus,Party,49900.0,Northeastern
+27,Arizona State University-Downtown Phoenix,Party,47400.0,Western
+28,Indiana University-Bloomington,Party,46300.0,Midwestern
+29,University of Iowa,Party,44700.0,Midwestern
+30,Randolph-Macon College,Party,42600.0,Southern
+31,The University of Alabama,Party,41300.0,Southern
+32,University of Mississippi,Party,41400.0,Southern
+33,University of New Hampshire-Main Campus,Party,41800.0,Northeastern
+34,West Virginia University,Party,43100.0,Southern
+35,The University of Tennessee-Knoxville,Party,43800.0,Southern
+36,Ohio University-Main Campus,Party,42200.0,Midwestern
+37,Florida State University,Party,42100.0,Southern
+38,Bucknell University,Liberal Arts,54100.0,Northeastern
+39,Colgate University,Liberal Arts,52800.0,Northeastern
+40,Amherst College,Liberal Arts,54500.0,Northeastern
+41,Lafayette College,Liberal Arts,53900.0,Northeastern
+42,Bowdoin College,Liberal Arts,48100.0,Northeastern
+43,College of the Holy Cross,Liberal Arts,50200.0,Northeastern
+44,Occidental College,Liberal Arts,51900.0,California
+45,Washington and Lee University,Liberal Arts,53600.0,Southern
+46,Swarthmore College,Liberal Arts,49700.0,Northeastern
+47,Davidson College,Liberal Arts,46100.0,Southern
+48,Carleton College,Liberal Arts,47500.0,Midwestern
+49,Williams College,Liberal Arts,51700.0,Northeastern
+50,Pomona College,Liberal Arts,48600.0,California
+51,Wesleyan University,Liberal Arts,46500.0,Northeastern
+52,Bates College,Liberal Arts,47300.0,Northeastern
+53,Union College,Liberal Arts,47200.0,Northeastern
+54,University of Richmond,Liberal Arts,48600.0,Southern
+55,Vassar College,Liberal Arts,46000.0,Northeastern
+56,Middlebury College,Liberal Arts,47700.0,Northeastern
+57,Mount Holyoke College,Liberal Arts,42400.0,Northeastern
+58,Franklin and Marshall College,Liberal Arts,49100.0,Northeastern
+59,DePauw University,Liberal Arts,41400.0,Midwestern
+60,St Olaf College,Liberal Arts,45300.0,Midwestern
+61,Colby College,Liberal Arts,46400.0,Northeastern
+62,Gettysburg College,Liberal Arts,44700.0,Northeastern
+63,Siena College,Liberal Arts,45500.0,Northeastern
+64,Smith College,Liberal Arts,44000.0,Northeastern
+65,Hamilton College,Liberal Arts,49200.0,Northeastern
+66,Wellesley College,Liberal Arts,42800.0,Northeastern
+67,Denison University,Liberal Arts,42000.0,Midwestern
+68,Oberlin College,Liberal Arts,43400.0,Midwestern
+69,University of Puget Sound,Liberal Arts,46600.0,Western
+70,Colorado College (CC),Liberal Arts,38500.0,Western
+71,Reed College,Liberal Arts,40500.0,Western
+72,Gustavus Adolphus College,Liberal Arts,44500.0,Midwestern
+73,Whitman College,Liberal Arts,43500.0,Western
+74,Ursinus College,Liberal Arts,42100.0,Northeastern
+75,Juniata College,Liberal Arts,41800.0,Northeastern
+76,Wittenberg University,Liberal Arts,39200.0,Midwestern
+77,Grinnell College,Liberal Arts,42600.0,Midwestern
+78,Skidmore College,Liberal Arts,41600.0,Northeastern
+79,Moravian College,Liberal Arts,42500.0,Northeastern
+80,Lewis & Clark College,Liberal Arts,38900.0,Western
+81,Fort Lewis College,Liberal Arts,42000.0,Western
+82,Thomas Aquinas College,Liberal Arts,41500.0,California
+83,The Evergreen State College,Liberal Arts,39500.0,Western
+84,Dartmouth College,Ivy League,58000.0,Northeastern
+85,Princeton University,Ivy League,66500.0,Northeastern
+86,Yale University,Ivy League,59100.0,Northeastern
+87,Harvard University,Ivy League,63400.0,Northeastern
+88,University of Pennsylvania,Ivy League,60900.0,Northeastern
+89,Cornell University,Ivy League,60300.0,Northeastern
+90,Brown University,Ivy League,56200.0,Northeastern
+91,Columbia University,Ivy League,59400.0,Northeastern
+92,University of California-Berkeley,State,59900.0,California
+93,University of Virginia-Main Campus,State,52700.0,Southern
+94,California Polytechnic State University-San Luis Obispo,State,57200.0,California
+95,University of California-Los Angeles,State,52600.0,California
+96,University of California-San Diego,State,51100.0,California
+97,University of California-Davis,State,52300.0,California
+98,University of Colorado Boulder,State,47100.0,Western
+99,University of California-Irvine,State,48300.0,California
+100,Texas A & M University-College Station,State,49700.0,Southern
+101,Binghamton University,State,53600.0,Northeastern
+102,Missouri University of Science and Technology,State,57100.0,Midwestern
+103,San Jose State University,State,53500.0,California
+104,University of Michigan-Ann Arbor,State,52700.0,Midwestern
+105,Stony Brook University,State,49500.0,Northeastern
+106,Rutgers University-New Brunswick,State,50300.0,Northeastern
+107,Purdue University-Main Campus,State,51400.0,Midwestern
+108,University of Connecticut,State,48000.0,Northeastern
+109,University of Massachusetts-Amherst,State,46600.0,Northeastern
+110,California State University-Chico,State,47400.0,California
+111,University of Wisconsin-Madison,State,48900.0,Midwestern
+112,California State University-Fullerton,State,45700.0,California
+113,George Mason University,State,47800.0,Southern
+114,University of Massachusetts-Lowell,State,45400.0,Northeastern
+115,San Francisco State University,State,47300.0,California
+116,University of Arizona,State,47500.0,Western
+117,Clemson University,State,48400.0,Southern
+118,University of Washington-Seattle Campus,State,48800.0,Western
+119,Michigan State University,State,46300.0,Midwestern
+120,University of Rhode Island,State,43900.0,Northeastern
+121,San Diego State University,State,46200.0,California
+122,Auburn University,State,45400.0,Southern
+123,Washington State University,State,45300.0,Western
+124,California State University-Long Beach,State,45100.0,California
+125,Iowa State University,State,45400.0,Midwestern
+126,University of Delaware,State,45900.0,Southern
+127,University of Colorado Denver,State,46100.0,Western
+128,California State University-East Bay,State,49200.0,California
+129,Farmingdale State College,State,47300.0,Northeastern
+130,University of Minnesota-Twin Cities,State,46200.0,Midwestern
+131,University of California-Santa Cruz,State,44700.0,California
+132,Ohio State University-Main Campus,State,44900.0,Midwestern
+133,North Carolina State University at Raleigh,State,47200.0,Southern
+134,Oregon State University,State,45100.0,Western
+135,University of Utah,State,45400.0,Western
+136,University of Nevada-Reno,State,46500.0,Western
+137,University of Oklahoma-Norman Campus,State,44700.0,Southern
+138,University of Arkansas,State,44100.0,Southern
+139,University of Vermont,State,44800.0,Northeastern
+140,University of Alabama in Huntsville,State,43100.0,Southern
+141,California State University-Sacramento,State,47800.0,California
+142,University of Idaho,State,44900.0,Western
+143,University of Illinois at Chicago,State,47500.0,Midwestern
+144,SUNY at Buffalo State,State,46200.0,Northeastern
+145,University of Kansas,State,42400.0,Midwestern
+146,University of New Mexico-Main Campus,State,41600.0,Western
+147,University of North Carolina at Chapel Hill,State,42900.0,Southern
+148,University of California-Riverside,State,46800.0,California
+149,SUNY College at Geneseo,State,42300.0,Northeastern
+150,University of Missouri-Columbia,State,41700.0,Midwestern
+151,University of Nebraska-Lincoln,State,45700.0,Midwestern
+152,The University of Texas at Arlington,State,45400.0,Southern
+153,Northern Illinois University,State,43600.0,Midwestern
+154,Oklahoma State University-Main Campus,State,42800.0,Southern
+155,University of North Dakota,State,44000.0,Midwestern
+156,California State University-Northridge,State,45500.0,California
+157,University of Houston,State,46000.0,Southern
+158,New Mexico State University-Main Campus,State,44300.0,Western
+159,Lamar University,State,46500.0,Southern
+160,Mississippi State University,State,44500.0,Southern
+161,Colorado State University-Fort Collins,State,44800.0,Western
+162,Kansas State University,State,43300.0,Midwestern
+163,University of Wyoming,State,44500.0,Western
+164,Utah State University,State,43800.0,Western
+165,University of Wisconsin-Platteville,State,45800.0,Midwestern
+166,University of Oregon,State,42200.0,Western
+167,University of Kentucky,State,42800.0,Southern
+168,University of Massachusetts-Boston,State,45600.0,Northeastern
+169,University of Maryland-Baltimore County,State,47000.0,Southern
+170,North Dakota State University-Main Campus,State,45100.0,Midwestern
+171,SUNY College at Oswego,State,38000.0,Northeastern
+172,University of Massachusetts-Dartmouth,State,43200.0,Northeastern
+173,Montana State University,State,46600.0,Western
+174,SUNY Oneonta,State,37500.0,Northeastern
+175,University of Louisiana at Lafayette,State,41100.0,Southern
+176,SUNY College at Plattsburgh,State,40800.0,Northeastern
+177,Wayne State University,State,42800.0,Midwestern
+178,University of Hawaii at Manoa,State,43800.0,Western
+179,University of Toledo,State,43100.0,Midwestern
+180,Florida International University,State,43200.0,Southern
+181,University of Wisconsin-Whitewater,State,40800.0,Midwestern
+182,Western Washington University,State,42700.0,Western
+183,Minnesota State University-Mankato,State,43300.0,Midwestern
+184,University of Wisconsin-Milwaukee,State,42300.0,Midwestern
+185,University of Arkansas at Monticello,State,39200.0,Southern
+186,Pennsylvania State University-Penn State Harrisburg,State,45700.0,Northeastern
+187,University of North Carolina at Charlotte,State,43100.0,Southern
+188,Georgia State University,State,41800.0,Southern
+189,Western Michigan University,State,42300.0,Midwestern
+190,South Dakota State University,State,41100.0,Midwestern
+191,Idaho State University,State,44900.0,Western
+192,Illinois State University,State,42000.0,Midwestern
+193,Cleveland State University,State,43500.0,Midwestern
+194,University of Alaska Anchorage,State,45900.0,Western
+195,Fitchburg State University,State,42400.0,Northeastern
+196,University of Nebraska at Omaha,State,41500.0,Midwestern
+197,Southern Illinois University-Carbondale,State,43000.0,Midwestern
+198,The University of Texas at El Paso,State,43400.0,Southern
+199,California State University-Dominguez Hills,State,42700.0,California
+200,University Of Maine,State,41200.0,Northeastern
+201,Eastern Michigan University,State,40300.0,Midwestern
+202,Bowling Green State University-Main Campus,State,39800.0,Midwestern
+203,The University of Montana,State,37300.0,Western
+204,University of Central Florida (UCF),State,42600.0,Southern
+205,University of South Carolina-Columbia,State,40000.0,Southern
+206,University of Nevada-Las Vegas,State,45200.0,Western
+207,Saint Cloud State University,State,41800.0,Midwestern
+208,University of Wisconsin-Parkside,State,40700.0,Midwestern
+209,California State University-Stanislaus,State,38000.0,California
+210,Humboldt State University,State,42600.0,California
+211,Florida Atlantic University,State,42600.0,Southern
+212,University of South Florida-Main Campus,State,41100.0,Southern
+213,Portland State University,State,42600.0,Western
+214,Eastern Washington University,State,38600.0,Western
+215,The University of Texas at San Antonio,State,42500.0,Southern
+216,University of Akron Main Campus,State,41100.0,Midwestern
+217,SUNY College at Potsdam,State,38000.0,Northeastern
+218,University of Alabama at Birmingham,State,39200.0,Southern
+219,University of Memphis,State,41400.0,Southern
+220,Boise State University,State,40800.0,Western
+221,Missouri State University-Springfield,State,36100.0,Midwestern
+222,University of Wisconsin-La Crosse,State,42200.0,Midwestern
+223,Appalachian State University,State,40400.0,Southern
+224,Virginia Commonwealth University,State,42000.0,Southern
+225,University of Wisconsin-Stout,State,43600.0,Midwestern
+226,East Carolina University,State,40200.0,Southern
+227,Utah Valley University,State,42400.0,Western
+228,University of Missouri-St Louis,State,41400.0,Midwestern
+229,Western Carolina University,State,36900.0,Southern
+230,University of Wisconsin-Oshkosh,State,39300.0,Midwestern
+231,SUNY at Fredonia,State,37800.0,Northeastern
+232,University of Missouri-Kansas City,State,38900.0,Midwestern
+233,University of Wisconsin-Eau Claire,State,41400.0,Midwestern
+234,Ball State University,State,39100.0,Midwestern
+235,University of North Carolina Wilmington,State,37500.0,Southern
+236,University of Wisconsin-Stevens Point,State,39800.0,Midwestern
+237,University of Southern Maine,State,39400.0,Northeastern
+238,Arkansas State University-Main Campus,State,38700.0,Southern
+239,Kent State University at Kent,State,38700.0,Midwestern
+240,Tarleton State University,State,40800.0,Southern
+241,University of Wisconsin-Green Bay,State,35800.0,Midwestern
+242,Morehead State University,State,34800.0,Southern
+243,Austin Peay State University,State,37700.0,Southern
+244,Pittsburg State University,State,40400.0,Midwestern
+245,Southern Utah University,State,41900.0,Western
+246,Montana State University Billings,State,37900.0,Western
+247,Black Hills State University,State,35300.0,Midwestern
